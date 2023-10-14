@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/xesw8jb3lJIAAAAC/saitama-serious.gif">
 
-<p align="left"> <a href="https://twitter.com/daksh" target="blank"><img src="https://img.shields.io/twitter/follow/daksh?logo=twitter&style=for-the-badge" alt="daksh" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/daksh53799884" target="blank"><img src="https://img.shields.io/twitter/follow/daksh53799884?logo=twitter&style=for-the-badge" alt="daksh53799884" /></a> </p>
 
 - 🔭 I’m currently working on **Startup Monitoring**
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/daksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daksh" height="30" width="40" /></a>
+<a href="https://twitter.com/daksh53799884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daksh53799884" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daksh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daksh singh" height="30" width="40" /></a>
 <a href="https://instagram.com/its_daksh_kr._rahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_daksh_kr._rahal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/draco_weez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="draco_weez" height="30" width="40" /></a>
